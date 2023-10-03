@@ -7,28 +7,29 @@ This repository contains data, code, and hands-on example notebooks to accompany
 
 ## Repository files and folders
 
-**WalkThroughExamples.ipynb** is interactive Python Jupyter Notebook that provides a hands-on walk through the different analyses conducted for this project. It includes code for running coordinate-based meta-analyses (CBMA) using the activation Likelihood Estimation (ALE) approach, leave one study out cross-validation (LOOCV) of CBMA, diagnostics of significant clusters, visualizing results and coordinates tables, and tips on how to build off this repository to conduct novel analyses.
+```WalkThroughExamples.ipynb``` *is interactive Python Jupyter Notebook that provides a hands-on walk through the different analyses conducted for this project. It includes code for running coordinate-based meta-analyses (CBMA) using the activation Likelihood Estimation (ALE) approach, leave one study out cross-validation (LOOCV) of CBMA, diagnostics of significant clusters, visualizing results and coordinates tables, and tips on how to build off this repository to conduct novel analyses.*
 
-**/code** contains the run code used to conduct the analyses presented in the main and supplemental text
-
-
-**/data** contains spreadsheets for study meta-data, coordinates, and contrast annotations for each of the studies used in our social interaction coordinate-based meta-analyses (CBMA)
-
-**/data/coordinate_datasets** contains NiMare coordinate datasets for the overarching and sub-CBMAs, and Neurosynth and Brainmap datasets for meta-analytic coactivation modeling (MACM) and functional decoding analyses.
-
-**/data/fc** contains resting-state functional connectivity maps for each of the 14 sub-peaks of the overarching CBMA as seeds. These data were obtained from neurosynth.org
-
-**/data/rois** contains regions of interest (ROI) masks for each of the 9 significant clusters from the overarching CBMA, and spherical ROIs with a 6 mm radius centered around each of the 14 sub-peaks. 
+```/code``` *contains the run code used to conduct the analyses presented in the main and supplemental text*
 
 
-**/results** contains all the results files for the analyses implemented for the manuscript.
+```/data``` *contains spreadsheets for study meta-data, coordinates, and contrast annotations for each of the studies used in our social interaction coordinate-based meta-analyses (CBMA)*
 
-**/results/cbma** contains results for each of the CBMAs we conducted, including thresholded and unthresholded whole-brain maps ALE and stats maps, coordinates tables, and NiMare results objects
+```/data/coordinate_datasets``` *contains NiMare coordinate datasets for the overarching and sub-CBMAs, and Neurosynth and Brainmap datasets for meta-analytic coactivation modeling (MACM) and functional decoding analyses.*
 
-**/results/decode** contains results for functional decoding of each cluster and spherical ROI using the Brainmap and Neurosynth LDA datasets
+```/data/fc``` *contains resting-state functional connectivity maps for each of the 14 sub-peaks of the overarching CBMA as seeds. These data were obtained from neurosynth.org*
 
-**/results/loocv** contains results for the leave one (study) out cross-validation (LOOCV) analysis
-**/results/macm** contains meta-analytic coactivation modeling (MACM) results for each cluster and spherical ROI using the Neurosynth database
+```/data/rois``` *contains regions of interest (ROI) masks for each of the 9 significant clusters from the overarching CBMA, and spherical ROIs with a 6 mm radius centered around each of the 14 sub-peaks*
+
+
+```/results``` *contains all the results files for the analyses implemented for the manuscript*
+
+```/results/cbma``` *contains results for each of the CBMAs we conducted, including thresholded and unthresholded whole-brain maps ALE and stats maps, coordinates tables, and NiMare results objects*
+
+```/results/decode``` *contains results for functional decoding of each cluster and spherical ROI using the Brainmap and Neurosynth LDA datasets*
+
+```/results/loocv``` *contains results for the leave one (study) out cross-validation (LOOCV) analysis*
+
+```/results/macm``` *contains meta-analytic coactivation modeling (MACM) results for each cluster and spherical ROI using the Neurosynth database*
 
 
 ## Abstract 
