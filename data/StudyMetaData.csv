@@ -1,0 +1,109 @@
+ShortForm,Study,SampleSize,PercentFemale,AverageAge,SDAge,AgeRange,Space,NumOfContrasts,study_id,Tags
+Abe_2019,Study1,38,47.36842105,,,19-27,MNI,1,Abe_2019,Joint Action; Hyperscanning; Grip Force; Hand grip; Joint vs Solo; Cooperation
+Abu-Akel_2020,Study1,24,79.17%,21.21,4.21,,MNI,1,Abu-Akel_2020,Human vs Computer; Rock-Paper-Scissors; 
+Alkire_2018,Study1 ,28,50%,10.41,1.46,8.18-12.98,MNI,3,Alkire_2018,Social Interaction; Human vs Computer; Chat; 
+Anders_2015,Study1,18,100,22.1,,19-28,MNI,2,Anders_2015,Emotion; Human vs Computer; METHOD: MVPA Classification; 
+Assaf_2013,Study1,27,22.22,17.44815,3.455556,,MNI,1,Assaf_2013,Competitive game; Human vs Computer; Dominos; MASKED ACTIVATION; ASTERISK; 
+Bach_2019,Study1,21,9.523809524,38.19,8.1,,MNI,2,Bach_2019,Cyberball; Social Exclusion; 
+Bault_2011,Study1,24,50,23,3.7,,MNI,1,Bault_2011,Social Decision Making; Social Context vs Alone; 
+Bereczkei_2015,Study1,38,47.36842105,23,2.56,,MNI,2,Bereczkei_2015,investment game; Trust game
+Berns_2005,Study1,32,40.63,26,5.8,19-41,MNI,3,Berns_2005,Social Conformity; Social Decision Making; Mental Rotation; 
+Beyer_2018,Study1,20,65,22,,18-27,MNI,2,Beyer_2018,Social Context vs Alone; 
+Bitsch_2018,Study1,20,50,28.79,4.93,23-38,MNI,1,Bitsch_2018,Prisoners Dilemna; Competition; Cooperation; 
+Brandi_2021,Study1,33,66.67,27.52,6.78,,MNI,1,Brandi_2021,Joint Attention; 
+Brune_2013,Study1,29,44.83%,27.9,4.5,21-37,MNI,1,Brune_2013,Human vs Computer; Ultimatum game; Decision making; Dictator game
+Buades-Rotger_2017,Study1,27,100,22,4,,MNI,1,Buades-Rotger_2017,Competitive game; Taylor Aggression Paradigm; 
+Caruana_2015,Study1,13,30.77%,24.85,5.65,,MNI,2,Caruana_2015,Eye gaze; Joint Attention; Virtual reality
+Cavallo_2015,Study1,21,42.86%,23,,,Talairach,4,Cavallo_2015,Shared attention; Joint Attention; Direct gaze; Mutual gaze
+Chaminade_2015,Study1,10,0,21.45,0.75,,MNI,1,Chaminade_2015,Competitive game; Competition; Human vs Computer; Rock Paper Scissors; 
+Chaminade_2012,Study1,18,0,21.5,4.9,,MNI,2,Chaminade_2012,Human vs Computer; Rock-Paper-Scissors; 
+Chauvigne_2018a,Study1,19,52.63%,40.4,13.2,,Talairach,1,Chauvigne_2018a,Dance; Joint Action; Talairach Space; Hand touching; Partner vs Solo Dance; 
+Chauvigne_2018b,Study1,18,50,40.4,13.2,,Talairach,2,Chauvigne_2018b,Dance; Joint Action; Talairach Space; Hand touching; Partner vs Solo Dance; 
+Corradi-DellAcqua_2013,Study1,23,39.13%,23.5,,18-35,MNI,1,Corradi-DellAcqua_2013,Ultimatum Game; Human vs Computer; 
+deQuervain_2004,Study1,14,0,25,3.3,,MNI,6,deQuervain_2004,PET; Trust; Altruistic Punishment; 
+Dedovic_2014,Study1,26,53.85,21.9,2.5,,MNI,1,Dedovic_2014,Montreal Imaging Stress Task; Social Observation; Social Evaluation; 
+Delgado_2008,Study1,17,52.94117647,23.77,3.38,,Talairach,1,Delgado_2008,Human vs Computer; Talairach Space; Social Decision Making; Auction; Economic game; 
+DiMenichi_2017,Study1,20,100,20.6,2.58,18-35,Talairach,1,DiMenichi_2017,Competitive game; Competition; Talairach Space; 
+Dziura_2021,Study1,52,55.77,20.6,,18-34,MNI,4,Dziura_2021,Shared attention; Shared vs Solo; MASKED ACTIVATION; METHOD: Intersubject correlation; 
+Edmiston_2015,Study1,16,11.9,10.13,1.52,12-Aug,MNI,2,Edmiston_2015,Prisoners Dilemna; Human vs Computer; 
+Elliott_2006,Study1,12,50,23.7,1.4,,Talairach,1,Elliott_2006,Human vs Computer; 
+Fareri_2014,Study1,18,44.44,20.4,2.15,,Talairach,2,Fareri_2014,Trust game; Human vs Computer; Talairach Space; 
+Fareri_2015,Study1,26,53.85,21.36,3.67,,Talairach,2,Fareri_2015,Trust game; Human vs Computer; Talairach Space; 
+Fareri_2012,Study1,20,50,20.5,2.2,,Talairach,1,Fareri_2012,Trust game; Human vs Computer; Talairach Space; 
+FeldmanHall_2012,Study1,14,57.14,25.9,4.6,,MNI,3,FeldmanHall_2012,Morality; 
+Fett_2019,Study1,47,0,17.16,1.44,13-19,Talairach,4,Fett_2019,Trust game; Talairach Space; 
+Fukui_2006,Study1,16,0,21.9,2.6,,Talairach,1,Fukui_2006,Competitive game; Human vs Computer; Talairach Space; Chicken Game; 
+Gallagher_2002,Study1,9,0,32,,22-43,Talairach,2,Gallagher_2002,PET; Human vs Computer; Talairach Space; Rock-Paper-Scissors; 
+Guionnet_2012,Study1,23,100,,,18-30,MNI,1,Guionnet_2012,Imitation; Gesture; 
+Hallam_2014,Study1,20,50,23,,18-30,MNI,3,Hallam_2014,Movie; Shared attention; Emotion regulation; Talairach Space; Interpersonal regulation; Joint viewing; 
+Hu_2018,Study1,50,0.62,25.2,3.8,18-33,MNI,2,Hu_2018,Human vs Computer; Game
+Izuma_2010,Study1,26,38.46,24.1,3.4,,MNI,1,Izuma_2010,Social Observation; Social Evaluation; Group
+Jasmin_2019,Study1,39,0.00%,21.03,4.16,14.7-32,Talairach,1,Jasmin_2019,Communication; Talairach Space; Conversation; 
+Jensen_2014,Study1,18,55.55555556,,,25-37,MNI,2,Jensen_2014,Pain; Shared experience; 
+Jo_2020,Study1,30,46.67,22.7,2.57,,MNI,1,Jo_2020,Significant other; Together vs Alone; Shopping; Social Influence; 
+Kircher_2009,Study1,12,0.00%,28,5.5,,Talairach,2,Kircher_2009,Competitive game; Prisoners Dilemna; Human vs Computer; Talairach Space; 
+Koike_2019a,Study1,34,41.18%,21.8,2.12,,MNI,1,Koike_2019a,Hyperscanning; Shared attention; Eye gaze; Joint Attention; Eye blinking; 
+Koike_2019b,Study1,65,58.46,22.4,5.04,,MNI,1,Koike_2019b,Hyperscanning; Gaze; Joint Attention; 
+Kokal_2009,Study1,18,55.56%,23.7,,20-45,MNI,2,Kokal_2009,Joint Action; Cooperation; 
+Krach_2009,Study1,12,0,28,5.5,19-40,MNI,1,Krach_2009_Study1,Competitive game; Prisoners Dilemna; Human vs Computer; 
+Krach_2009,Study2,12,100,26.1,6,19-40,MNI,1,Krach_2009_Study2,Competitive game; Prisoners Dilemna; Human vs Computer; 
+Krach_2008,Study1,20,0,24.5,2.97,,MNI,2,Krach_2008,Prisoners Dilemna; Human vs Computer; Games; Robots
+Kuhlen_2017,Study1,17,58.82%,27.18,,21-35,MNI,1,Kuhlen_2017,Speech; Communication; Social communication; METHOD: MVPA Classification; 
+Langavant_2011,Study1,10,80,28.1,8.6,,MNI,1,Langavant_2011,Communication; PET; Gesture; Pointing; Attention; Social communication
+LeBouc_2013,Study1,32,37.5,24.7,0.9,18-39,MNI,2,LeBouc_2013,Competition; Cooperation; Grip Force; METHOD: Parametric Modulation; 
+Lee_2018,Study1,16,0,23.2,2.3,,Talairach,2,Lee_2018,Competition; Cooperation; Talairach Space; Tetris; 
+Lemmers-Jansen_2020,Study1,30,40,21.37,3,,MNI,4,Lemmers-Jansen_2020,investment game; Trust game; Human vs Computer; 
+Lopez-Sola_2019,Study1,30,100,24.5,6.65,,MNI,2,Lopez-Sola_2019,Pain; Touch; Hand-holding; DEACTIVATIONS; Significant other; 
+Lopez-Sola_2018,Study1,29,100,24.65,6.72,,MNI,1,Lopez-Sola_2018,Pain; Touch; Hand-holding; DEACTIVATIONS; Significant other; 
+Ma_2018,Study1,104,49.04,21.05,,17-28,MNI,2,Ma_2018,Shared attention; shared experience; Shared emotion; Social sharing
+Matsunaga_2017,Study1,50,100,20.8,,18-28,MNI,1,Matsunaga_2017,Social presence; Social Observation; Shared experience; Shared emotion; 
+Miyata_2021,Study1,32,68.75,22.42,,19-35,MNI,2,Miyata_2021,Facial Expressions; Imitation; Hyperscanning; Shared representation of action
+Molenberghs_2014,Study1,48,50,22.5,4.9,,MNI,2,Molenberghs_2014,Trivia; In group vs Out group; group membership; in-group bias; punishing; rewarding
+Muller-Pinzler_2015,Study1,27,62.96,23.11,2.58,18-28,MNI,1,Muller-Pinzler_2015,Social presence; Social Observation; Social Evaluation; Group
+Nagy_2010,Study1,15,80,30.9,12.1,,Talairach,2,Nagy_2010,Communication; Social communication; Talairach Space; Imitation; Mirror neuron system; Reciprocal communication
+Newman-Norlund_2008,Study1,20,0.00%,,,18-27,MNI,2,Newman-Norlund_2008,Joint Action; Cooperation; Complementary
+Noordzij_2009,Study1,24,50.00%,,,18-26,MNI,1,Noordzij_2009_Study1,Social communication; 
+Noordzij_2009,Study2,8,0.25,,,18-26,MNI,1,Noordzij_2009_Study2,Social communication; 
+Ozdem_2017,Study1,21,52.38095238,21.14,,18-28,MNI,1,Ozdem_2017,Human vs Computer; Joint Attention; 
+Pfeiffer_2014,Study1,20,45,27.75,6.44,,MNI,3,Pfeiffer_2014,Human vs Computer; Joint Attention; 
+Polosan_2011,Study1,14,71.43,35.9,7.2,,Talairach,1,Polosan_2011,Human vs Computer; Talairach Space; Stroope; Competition
+Radke_2011,Study1,34,47.06%,25.6,3,,MNI,1,Radke_2011,Social Observation; Social Context; 
+Redcay_2010,Study1,16,56.25%,22.8,3.1,18-29,MNI,1,Redcay_2010_Study1,Joint Attention; Live > Recorded; 
+Redcay_2010,Study2,13,53.85%,22.6,3.5,18-29,MNI,1,Redcay_2010_Study2,Joint Attention; Live > Recorded; 
+Redcay_2013,Study1,14,21.43%,27,,,MNI,2,Redcay_2013,Eye gaze; Joint Attention; Joint vs Solo; 
+Redcay_2012,Study1,32,40.625,24.5,5,,MNI,2,Redcay_2012,Eye gaze; Gaze; Joint Attention; Joint vs Solo; 
+Rice_2016a,Study1,29,58.06%,,,18-27,MNI,1,Rice_2016a,Live > Recorded; 
+Rice_2016b,Study1,19,68.42%,10.9,1.6,44755,MNI,2,Rice_2016b,Adolescence; Live > Recorded; 
+Riedl_2014,Study1,18,38.89,31.83,,,MNI,1,Riedl_2014,Trust game; Human vs Computer; 
+Rilling_2008,Study1,20,100,20.8,1.6,,Talairach,1,Rilling_2008,Ultimatum Game; Prisoners Dilemna; Human vs Computer; Talairach Space; 
+Rilling_2012,Study1,86,0.00%,20.2,,18-22,Talairach,4,Rilling_2012,Prisoners Dilemna; Talairach Space; 
+Rilling_2004,Study1,19,57.89,21.8,7.8,,Talairach,2,Rilling_2004,Prisoners Dilemna; Human vs Computer; Talairach Space; Cooperation
+Saito_2010,Study1,38,0.00%,24.7,4.15,,MNI,1,Saito_2010,Hyperscanning; Eye gaze; Joint Attention; 
+Schilbach_2009,Study1,21,0,,,18-30,MNI,1,Schilbach_2009,Eye gaze; Joint Attention; 
+Schindler_2019,Study1,28,71.43,24.19,2.43,,MNI,1,Schindler_2019,Human vs Computer; Social Evaluation; 
+Schippers_2009,Study1,24,50,37.5,3.8,,MNI,3,Schippers_2009,Communication; Charades; ASTERISK; NOT REAL TIME; 
+Schuwerk_2017,Study1,23,52.17%,22.8,3,,MNI,1,Schuwerk_2017,Human vs Computer; 
+Sequeira_2021,Study1,76,100,12.27,0.81,,MNI,2,Sequeira_2021,Adolescence; Social Evaluation; Chat; Social feedback; Peer evaluation; Social rejection; Peer rejection; Group
+Shpurov_2020,Study1,24,41.67%,25,5,18-45,MNI,1,Shpurov_2020,Group vs Alone; Problem Solving; Cooperative interaction; group problem solving
+Sip_2010,Study1,14,35.71%,24,1.33,,MNI,2,Sip_2010,Dominos; Myer game; Social interaction; Decision-making; Deception
+Sperduti_2014,Study1,23,100,,,18-30,MNI,2,Sperduti_2014,Baseline control; Imitation; 
+Spilakova_2020,Study1,38,42.11%,22.44,1.9,,MNI,1,Spilakova_2020,Hyperscanning; Competition; Cooperation; METHOD: Intersubject correlation; METHOD: ICA; 
+Spitzer_2007,Study1,23,0,23.5,2.3,,MNI,2,Spitzer_2007,Punishment; Social norm compliance; 
+Sun_2016,Study1,25,100,,,20-25,MNI,1,Sun_2016,Human vs Computer; Social Decision Making; Deception; Decision making
+Takahashi_2015,Study1,17,41.18%,,,18-25,MNI,1,Takahashi_2015,Competitive game; Competition; Human vs Computer; Pennies Matching Game; Games
+Takahashi_2014,Study1,16,68.75,,,18-25,MNI,2,Takahashi_2014,Human vs Computer; METHOD: Parametric Modulation; ASTERISK; fMRI; Social brain; Mentalizing; Competitive game; Robot
+Tamir_2015,Study1,23,65.22%,21.1,,18-28,MNI,1,Tamir_2015,Communication; Inform vs Withhold; 
+Tomlin_2013,Study1,86,60.47,29,,18-57,MNI,2,Tomlin_2013,Games; Decision making; Social influence; 
+Tsoi_2016,Study1,18,44.44,27.4,5.1,21-38,MNI,3,Tsoi_2016,Competition; Cooperation; 
+vandenBos_2007,Study1,19,36.84,20.7,2.5,,Talairach,1,vandenBos_2007,Human vs Computer; Talairach Space; 
+VanHoorn_2016,Study1,61,52.46%,14.48,1.68,44911,MNI,4,VanHoorn_2016,Peer influence; Adolescents; Public Goods Game; Social Influence; Donations; 
+Vanlangendonck_2018,Study1,40,82.5,22.45,,18-28,MNI,3,Vanlangendonck_2018,Communication; Communications
+Wagner_2015,Study1,26,100,24.76,0.364,20-33,MNI,1,Wagner_2015,Shared attention; Shared emotion; 
+Wang_2019,Study1,24,50,49,16,,MNI,1,Wang_2019,Cyberball; 
+Warnell_2018,Study1,24,53.85,10.47,1.44,44785,MNI,3,Warnell_2018,Adolescence; Chat; Human vs Computer; 
+Wilbers_2012,Study1,30,63.33333333,23.2,,20-26,MNI,2,Wilbers_2012,Communication; Social vs Alone; Social communication; Verbal communication
+Xie_2020,Study1,36,44.4,27.44,4.98,18-45,MNI,1,Xie_2020,Hyperscanning; collaborative interaction; Pictionary; collaborative drawing; intersubject brain synchronization; three-person hyperscanning
+Yoo_2020,Study1,19,47.37%,25.68,3.58,19-31,MNI,1,Yoo_2020,Doubt game; Lying; Emotions; Anxiety; Deception
+Yoshie_2016,Study1,21,52.380952,25.5,6.1,,MNI,2,Yoshie_2016,Social Observation; Hand grip; 
+Yoshioka_2021,Study1,44,54.55%,21.27,2.38,,MNI,7,Yoshioka_2021,Hyperscanning; Shared attention; Joint Attention; Shared experience; METHOD: Intersubject correlation; METHOD: Intersubject beta-series correlation; DATA REQUESTED; 
+Zimmermann_2019,Study1,24,0,23.67,2.88,18-35,MNI,1,Zimmermann_2019,Touch; 

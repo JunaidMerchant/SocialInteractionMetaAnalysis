@@ -1,0 +1,14 @@
+rAI
+rIFG
+dMPFC
+aMPFC
+dACC
+pACC
+rTPJ
+rIPL
+lAI
+lTPJ
+ldLPFC
+PCC
+lIPL
+rdLPFC
