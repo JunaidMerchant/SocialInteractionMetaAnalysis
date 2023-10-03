@@ -9,7 +9,7 @@ This repository contains data, code, and hands-on example notebooks to accompany
 
 ```WalkThroughExamples.ipynb``` *is interactive Python Jupyter Notebook that provides a hands-on walk through the different analyses conducted for this project. It includes code for running coordinate-based meta-analyses (CBMA) using the activation Likelihood Estimation (ALE) approach, leave one study out cross-validation (LOOCV) of CBMA, diagnostics of significant clusters, visualizing results and coordinates tables, and tips on how to build off this repository to conduct novel analyses.*
 
-```/code``` *contains the run code used to conduct the analyses presented in the main and supplemental text*
+### ```/code``` *contains the run code used to conduct the analyses presented in the main and supplemental text*
 
 
 ```/data``` *contains spreadsheets for study meta-data, coordinates, and contrast annotations for each of the studies used in our social interaction coordinate-based meta-analyses (CBMA)*
